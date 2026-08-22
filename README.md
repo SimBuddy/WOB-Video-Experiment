@@ -1,2 +1,6 @@
+
+
+Uploading wob_vs_full_demo.mp4…
+
 # WOB-Video-Experiment
 Abandoned experiment at enhancing video object detection - promising though ...

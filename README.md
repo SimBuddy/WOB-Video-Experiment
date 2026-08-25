@@ -20,6 +20,6 @@ WOB can refactor code that has been already been conventionally refactored, beca
 
 This was the first attempt at applying the simple WOB rule (6 words!) to a known data processing algorithm - early results were promising.  However an underlying principle emerged when applying the rule, so the experiment was abandoned in favour of a loftier goal.  The WOB rule was born, and thus the entire methodology.
 
-[Watch demo video](https://github.com/user-attachments/assets/...)
+[Watch demo video]([https://github.com/user-attachments/assets/...](https://github.com/SimBuddy/WOB-Video-Experiment/blob/main/wob_vs_full_demo.mp4))
 
 Video is left for posterity.
